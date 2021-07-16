@@ -5,11 +5,11 @@
 
 
 ## Some Screenshots 
-### Crytp List with Search and Pagination
-![Crytp List with Search and Pagination](https://i.imgur.com/NLFzCQD.png)
-
 ### Card View For Some Cryptos
-![Card View For Some Cryptos](https://i.imgur.com/Ul1m8SJ.png)
+![Card View For Some Cryptos](https://i.imgur.com/NLFzCQD.png)
+
+### Crytp List with Search and Pagination
+![Crytp List with Search and Pagination](https://i.imgur.com/Ul1m8SJ.png)
 
 ### List of Added Cryptos
 ![List of Added Cryptos](https://i.imgur.com/1F1ar8H.png)
